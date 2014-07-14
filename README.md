@@ -1,6 +1,6 @@
 # Pwinty
 
-TODO: Write a gem description
+Make API calls through httparty to the Pwinty Photo Printing API.
 
 ## Installation
 

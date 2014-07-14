@@ -6,11 +6,11 @@ require 'pwinty/version'
 Gem::Specification.new do |spec|
   spec.name          = "pwinty"
   spec.version       = Pwinty::VERSION
-  spec.authors       = ["crwilliams87"]
+  spec.authors       = ["Chris Williams"]
   spec.email         = ["chris.r.williams@icloud.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{Make calls to create and submit orders to Pwinty Photo Printing API}
   spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/crwilliams87/pwinty"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

@@ -2,6 +2,8 @@
 
 Make API calls through httparty to the Pwinty Photo Printing API.
 
+**This Gem is in alpha version**
+
 ## Installation
 
 Add this line to your application's Gemfile:
